@@ -3,7 +3,7 @@
     <h1>EM4305 utils</h1>
 
     <p>
-      <a href="/assets/EM4205-4305.pdf">Reference</a>
+      <a href="assets/EM4205-4305.pdf">Reference</a>
     </p>
 
     <p>
