@@ -1,29 +1,4 @@
-# em4305_utils
+# EM4305 utils
 
-## Project setup
-```
-npm install
-```
+This is a simple tool to help writing data to an EM4305 chip
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
